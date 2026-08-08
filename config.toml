@@ -1,5 +1,5 @@
 baseURL = "https://namquocle.github.io/fcj-facial-emotion-recognition/"
-relativeURLs = true
+relativeURLs = false
 canonifyURLs = true
 defaultContentLanguage = "en"
 
