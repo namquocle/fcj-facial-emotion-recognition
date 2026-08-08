@@ -116,6 +116,6 @@ pre: " <b> 4.3. </b> "
 - AI technologies are advancing at a rapid pace (from Generative AI to Agentic AI, Harness Engineering, and Loop Engineering); continuous monthly learning is mandatory to remain at the cutting edge.
 
 ## Event Media & Photographs
-![MeetEvent3-1](/images/4-EventParticipated/MeetEvent3-1.png)
-![MeetEvent3-2](/images/4-EventParticipated/MeetEvent3-2.png)
-![MeetEvent3-3](/images/4-EventParticipated/MeetEvent3-3.png)
+![MeetEvent3-1](/images/4-EventParticipated/MeetEvent3-1.jpg)
+![MeetEvent3-2](/images/4-EventParticipated/MeetEvent3-2.jpg)
+![MeetEvent3-3](/images/4-EventParticipated/MeetEvent3-3.jpg)

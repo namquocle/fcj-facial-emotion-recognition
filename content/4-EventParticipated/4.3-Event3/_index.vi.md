@@ -116,8 +116,8 @@ pre: " <b> 4.3. </b> "
 - Công nghệ AI tiến triển rất nhanh (từ Generative AI đến Agentic AI, Harness Engineering, Loop Engineering); việc liên tục cập nhật kiến thức hàng tháng là bắt buộc để không bị lạc hậu.
 
 ## Một Số Hình Ảnh Khi Tham Gia Sự Kiện
-![MeetEvent3-1](/images/4-EventParticipated/MeetEvent3-1.png)
-![MeetEvent3-2](/images/4-EventParticipated/MeetEvent3-2.png)
-![MeetEvent3-3](/images/4-EventParticipated/MeetEvent3-3.png)
+![MeetEvent3-1](/images/4-EventParticipated/MeetEvent3-1.jpg)
+![MeetEvent3-2](/images/4-EventParticipated/MeetEvent3-2.jpg)
+![MeetEvent3-3](/images/4-EventParticipated/MeetEvent3-3.jpg)
 
 ---

@@ -96,6 +96,6 @@ Tham gia workshop **“AWS Agent Core Runtime & Agentic AI”** là một trải
 * **Lộ trình triển khai rõ ràng:** Chuyển đổi từ các Use Cases cơ bản đến nâng cao và tuân thủ chặt chẽ các Best Practices của AWS khi đưa Agentic System vào hệ thống Production.
 
 ## Một số hình ảnh khi tham gia sự kiện
-![MeetEvent2-1](/images/4-EventParticipated/MeetEvent2-1.png)
-![MeetEvent2-2](/images/4-EventParticipated/MeetEvent2-2.png)
-![MeetEvent2-3](/images/4-EventParticipated/MeetEvent2-3.png)
+![MeetEvent2-1](/images/4-EventParticipated/MeetEvent2-1.jpg)
+![MeetEvent2-2](/images/4-EventParticipated/MeetEvent2-2.jpg)
+![MeetEvent2-3](/images/4-EventParticipated/MeetEvent2-3.jpg)

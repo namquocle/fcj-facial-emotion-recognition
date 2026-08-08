@@ -73,6 +73,6 @@ pre: " <b> 4.1. </b> "
 
 ## VII. MỘT SỐ HÌNH ẢNH KHI THAM GIA SỰ KIỆN
 
-![MeetEvent1-1](/images/4-EventParticipated/MeetEvent1-1.png)
-![MeetEvent1-2](/images/4-EventParticipated/MeetEvent1-2.png)
-![MeetEvent1-3](/images/4-EventParticipated/MeetEvent1-3.png)
+![MeetEvent1-1](/images/4-EventParticipated/MeetEvent1-1.jpg)
+![MeetEvent1-2](/images/4-EventParticipated/MeetEvent1-2.jpg)
+![MeetEvent1-3](/images/4-EventParticipated/MeetEvent1-3.jpg)

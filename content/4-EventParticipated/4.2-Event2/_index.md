@@ -96,6 +96,6 @@ Participating in the **“AWS Agent Core Runtime & Agentic AI Workshop”** was 
 * **Structured Roadmap:** Successful adoption requires progressing from basic to advanced use cases while adhering strictly to AWS Best Practices for production deployment.
 
 ## Event Photos
-![MeetEvent2-1](/images/4-EventParticipated/MeetEvent2-1.png)
-![MeetEvent2-2](/images/4-EventParticipated/MeetEvent2-2.png)
-![MeetEvent2-3](/images/4-EventParticipated/MeetEvent2-3.png)
+![MeetEvent2-1](/images/4-EventParticipated/MeetEvent2-1.jpg)
+![MeetEvent2-2](/images/4-EventParticipated/MeetEvent2-2.jpg)
+![MeetEvent2-3](/images/4-EventParticipated/MeetEvent2-3.jpg)
