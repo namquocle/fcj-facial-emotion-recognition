@@ -1,0 +1,25 @@
+# Hugo output
+public/
+resources/
+.hugo_build.lock
+
+# Python virtual environment
+venv/
+Emotion-recognition-app/venv/
+.venv/
+env/
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+Emotion-recognition-app/__pycache__/
+
+# Environment variables
+.env
+Emotion-recognition-app/.env
+
+# OS files
+.DS_Store
+Thumbs.db
