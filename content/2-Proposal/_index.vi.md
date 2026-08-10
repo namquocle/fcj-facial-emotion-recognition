@@ -47,7 +47,7 @@ Dự án đề xuất giải quyết các bài toán trên bằng cách chuyển
 
 Hệ thống được thiết kế theo kiến trúc hướng sự kiện (Event-Driven Architecture) với luồng dữ liệu tuần tự khép kín như sau:
 
-![Structure diagram](/images/2-Proposal/Structure-diagram.png) 
+![Structure diagram](images/Structure-diagram.png) 
 
 ### Chi tiết vai trò của các dịch vụ AWS trong hệ thống:
 
