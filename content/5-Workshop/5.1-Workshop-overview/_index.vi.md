@@ -1,4 +1,4 @@
-﻿---
+---
 title : "Giới thiệu"
 date : 2024-01-01 
 weight : 1
@@ -29,30 +29,8 @@ Sau khi hoàn thành workshop này, bạn sẽ có thể:
 Sơ đồ dưới đây minh họa kiến trúc hệ thống và luồng xử lý dữ liệu:
 ![architecture_diagram](/images/5-Workshop/architecture_diagram.png)
 
-```
-+------------------+          Tải hình ảnh          +---------------+
-|                  | -----------------------------> |               |
-|  Streamlit App   |                                |   Amazon S3   |
-| (Local/EC2 Node) | <----------------------------- |    Bucket     |
-|                  |     Trả về trạng thái Upload   +---------------+
-+------------------+                                        |
-                                                            | S3 Event Trigger
-                                                            | (ObjectCreated)
-                                                            v
-+------------------+       Lưu bản ghi log         +---------------+
-|                  | <----------------------------- |               |
-| Amazon DynamoDB  |                                |  AWS Lambda   |
-|  (NoSQL Table)   |                                |   Function    |
-|                  |                                +---------------+
-+------------------+                                        |
-                                                            | Gọi API DetectFaces
-                                                            | qua thư viện boto3
-                                                            v
-                                                    +---------------+
-                                                    |    Amazon     |
-                                                    |  Rekognition  |
-                                                    +---------------+
-```
+![Kiến trúc hệ thống](../../../static/images/5-Workshop/5.1-Workshop-overview/architecture_diagram.png)
+
 
 ### Chi tiết luồng xử lý dữ liệu
 

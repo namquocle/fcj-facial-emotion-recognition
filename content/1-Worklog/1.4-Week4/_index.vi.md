@@ -31,7 +31,7 @@ pre: " <b> 1.4. </b> "
 * **Quản lý tài nguyên đám mây:** Thành thạo quy trình thiết lập tài nguyên cơ bản trên hạ tầng AWS.
 
 ### 4. Khó khăn gặp phải & Cách giải quyết (Challenges & Troubleshooting)
-* **Khó khăn:** Khi viết Policy cho Lambda ghi dữ liệu vào DynamoDB, ban đầu tôi mở rộng quyền `Resource: "*"` dẫn đến cảnh báo bảo mật từ hệ thống cảnh báo tự động của AWS (AWS Security Hub).
+* **Khó khăn:** Khi viết Policy cho Lambda ghi dữ liệu vào DynamoDB, ban đầu em mở rộng quyền `Resource: "*"` dẫn đến cảnh báo bảo mật từ hệ thống cảnh báo tự động của AWS (AWS Security Hub).
 * **Giải quyết:** Thực hiện thu hẹp phạm vi tài nguyên bằng cách lấy chính xác địa chỉ ARN của bảng DynamoDB `FaceEmotionLogs` (dạng `arn:aws:dynamodb:ap-southeast-1:account-id:table/FaceEmotionLogs`) để thay thế vào trường Resource của Policy.
 
 ### 5. Kết quả đạt được (Outcomes)

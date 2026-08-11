@@ -78,7 +78,7 @@ pre: " <b> 4.2. </b> "
 ---
 
 # Trải nghiệm trong event
-Tham gia workshop **“AWS Agent Core Runtime & Agentic AI”** là một trải nghiệm rất bổ ích, giúp tôi có cái nhìn toàn diện về cách xây dựng, vận hành và bảo mật hệ thống AI Agent ở quy mô doanh nghiệp. Một số trải nghiệm nổi bật:
+Tham gia workshop **“AWS Agent Core Runtime & Agentic AI”** là một trải nghiệm rất bổ ích, giúp em có cái nhìn toàn diện về cách xây dựng, vận hành và bảo mật hệ thống AI Agent ở quy mô doanh nghiệp. Một số trải nghiệm nổi bật:
 
 ## Học hỏi từ các diễn giả có chuyên môn cao
 * Nghe chia sẻ thực tế về gần 100 slides lý thuyết chuyên sâu, đi từ tổng quan Agentic AI đến các bài toán phức tạp về Inference Time và Data Leakage.

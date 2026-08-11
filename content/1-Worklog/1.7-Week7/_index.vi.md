@@ -23,7 +23,7 @@ pre: " <b> 1.7. </b> "
   * Cài đặt thư viện `python-dotenv`. Thiết lập tệp `.env` để lưu trữ `AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY`, và `S3_BUCKET_NAME`.
   * Cập nhật code để tự động chạy `load_dotenv()` khi ứng dụng web khởi động, tránh việc hardcode khóa bảo mật trực tiếp trong file chạy chính.
 * **Tái cấu trúc mã nguồn thành dạng Modular:**
-  * Nhận thấy file `app.py` và `lambda_function.py` quá lớn, khó đọc, tôi đã tiến hành chia nhỏ thành các tệp tin đơn nhiệm:
+  * Nhận thấy file `app.py` và `lambda_function.py` quá lớn, khó đọc, em đã tiến hành chia nhỏ thành các tệp tin đơn nhiệm:
     * `config.py` chứa cấu hình nạp từ `.env`.
     * `validation.py` chứa logic xác thực file.
     * `s3_service.py` chứa logic khởi tạo và tải file lên S3.

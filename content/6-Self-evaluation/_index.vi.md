@@ -7,7 +7,7 @@ pre: " <b> 6. </b> "
 ---
 # 6. Tự đánh giá bản thân
 
-Mục này chứa nội dung tự đánh giá cá nhân của tôi về quá trình học tập và làm việc trong chương trình thực tập **AWS Workforce Bootcamp - First Cloud AI Journey**. Tài liệu bao gồm các kiến thức đã tích lũy, kết quả đạt được, tiêu chí tự đánh giá, điểm mạnh, điểm cần cải thiện và kế hoạch hành động trong tương lai.
+Mục này chứa nội dung tự đánh giá cá nhân của em về quá trình học tập và làm việc trong chương trình thực tập **AWS Workforce Bootcamp - First Cloud AI Journey**. Tài liệu bao gồm các kiến thức đã tích lũy, kết quả đạt được, tiêu chí tự đánh giá, điểm mạnh, điểm cần cải thiện và kế hoạch hành động trong tương lai.
 
 ---
 
@@ -28,7 +28,7 @@ Mục này chứa nội dung tự đánh giá cá nhân của tôi về quá tr�
 
 ## 📊 Tiêu chí tự đánh giá
 
-Bảng dưới đây thể hiện mức độ tự đánh giá của tôi đối với các hoạt động chính trong suốt kỳ thực tập:
+Bảng dưới đây thể hiện mức độ tự đánh giá của em đối với các hoạt động chính trong suốt kỳ thực tập:
 
 | Tiêu chí | Mức độ hoàn thành | Điểm số (1-5) | Ghi chú / Đánh giá chi tiết |
 | :--- | :---: | :---: | :--- |
@@ -46,7 +46,7 @@ Bảng dưới đây thể hiện mức độ tự đánh giá của tôi đối
 - **Chỉn chu trong viết tài liệu:** Luôn chú trọng việc trình bày tài liệu kỹ thuật sạch sẽ, cấu trúc rõ ràng và ghi chú mã nguồn trực quan, giúp các lập trình viên khác dễ dàng tiếp cận sản phẩm.
 
 ### Điểm cần cải thiện
-- **Tự động hóa hạ tầng (IaC):** Mặc dù đã thành thạo việc tạo tài nguyên thủ công trên AWS Console, tôi cần học cách tự động hóa triển khai hạ tầng bằng công cụ như **AWS CloudFormation** hoặc **Terraform**.
+- **Tự động hóa hạ tầng (IaC):** Mặc dù đã thành thạo việc tạo tài nguyên thủ công trên AWS Console, em cần học cách tự động hóa triển khai hạ tầng bằng công cụ như **AWS CloudFormation** hoặc **Terraform**.
 - **Cấu hình bảo mật nâng cao:** Cần nghiên cứu sâu hơn về việc bảo mật dữ liệu lưu trữ (data at rest), ví dụ như áp dụng khóa mã hóa do người dùng quản lý KMS (Customer-managed keys) trên S3 và DynamoDB.
 - **Kiểm thử tự động nâng cao:** Cần xây dựng thêm các bộ kiểm thử đơn vị tự động (unit tests) sử dụng `pytest` và thư viện mock dịch vụ AWS như `moto` thay vì chỉ dựa vào kiểm thử thủ công toàn trình.
 
@@ -55,5 +55,5 @@ Bảng dưới đây thể hiện mức độ tự đánh giá của tôi đối
 ## 🚀 Kế hoạch phát triển tiếp theo
 
 1. **Thi lấy chứng chỉ AWS:** Ôn tập và thi đạt chứng chỉ **AWS Certified Cloud Practitioner** hoặc **AWS Certified Solutions Architect – Associate** trong vòng 3 tháng tới để chuẩn hóa kiến thức điện toán đám mây.
-2. **Áp dụng hạ tầng dạng mã (IaC):** Thay vì thao tác thủ công trên console, tôi sẽ triển khai toàn bộ hạ tầng backend (VPC, Lambda, DynamoDB, S3) bằng **Terraform** hoặc **AWS SAM (Serverless Application Model)** trong dự án tiếp theo.
+2. **Áp dụng hạ tầng dạng mã (IaC):** Thay vì thao tác thủ công trên console, em sẽ triển khai toàn bộ hạ tầng backend (VPC, Lambda, DynamoDB, S3) bằng **Terraform** hoặc **AWS SAM (Serverless Application Model)** trong dự án tiếp theo.
 3. **Tìm hiểu DevSecOps:** Xây dựng các pipeline CI/CD tự động (ví dụ qua GitHub Actions) để thực hiện kiểm tra định dạng code (linting), chạy test tự động và tự động deploy hàm serverless lên môi trường Cloud của AWS.

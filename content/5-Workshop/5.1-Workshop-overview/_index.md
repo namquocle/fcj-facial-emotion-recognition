@@ -1,4 +1,4 @@
-﻿---
+---
 title : "Introduction"
 date : 2024-01-01 
 weight : 1 
@@ -28,30 +28,8 @@ By the end of this workshop, you will be able to:
 
 The following diagram illustrates the system architecture and data processing flow:
 
-```
-+------------------+         Uploads Image          +---------------+
-|                  | -----------------------------> |               |
-|  Streamlit App   |                                |   Amazon S3   |
-| (Local/EC2 Node) | <----------------------------- |    Bucket     |
-|                  |      Returns Upload Status     +---------------+
-+------------------+                                        |
-                                                            | S3 Event Trigger
-                                                            | (ObjectCreated)
-                                                            v
-+------------------+      Saves Log Record          +---------------+
-|                  | <----------------------------- |               |
-| Amazon DynamoDB  |                                |  AWS Lambda   |
-|  (NoSQL Table)   |                                |   Function    |
-|                  |                                +---------------+
-+------------------+                                        |
-                                                            | Invokes DetectFaces
-                                                            | via boto3 API
-                                                            v
-                                                    +---------------+
-                                                    |    Amazon     |
-                                                    |  Rekognition  |
-                                                    +---------------+
-```
+![System Architecture](../../../static/images/5-Workshop/5.1-Workshop-overview/architecture_diagram.png)
+
 
 ### Data Flow Steps
 
