@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Proposal"
 date: 2024-01-01
 weight: 2
@@ -59,7 +59,7 @@ This project addresses these challenges by shifting to a **Serverless architectu
 
 The system is designed following an Event-Driven Architecture with a closed-loop sequential data flow:
 
-![Structure diagram](images/Structure-diagram.png) 
+![Structure diagram](../../static/images/2-Proposal/Structure-diagram.png)
 
 ### Detailed AWS Service Roles in the System:
 
