@@ -28,7 +28,7 @@ By the end of this workshop, you will be able to:
 
 The following diagram illustrates the system architecture and data processing flow:
 
-![System Architecture](../../../static/images/5-Workshop/5.1-Workshop-overview/architecture_diagram.png)
+![System Architecture](../../../static/images/5-Workshop/5.1-Workshop-overview/system_diagram.png)
 
 
 ### Data Flow Steps
