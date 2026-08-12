@@ -29,6 +29,7 @@ Sau khi hoàn thành workshop này, bạn sẽ có thể:
 Sơ đồ dưới đây minh họa kiến trúc hệ thống và luồng xử lý dữ liệu:
 
 ![Kiến trúc hệ thống](../../../static/images/5-Workshop/5.1-Workshop-overview/architecture_diagram.png)
+![System](../../../static/images/5-Workshop/5.1-Workshop-overview/system_diagram.png)
 
 
 ### Chi tiết luồng xử lý dữ liệu
